@@ -2,6 +2,7 @@
 ## Requirements
 
 #[Done] When you start the test, create a GitHub repo and grant access to `pritpalbbemarketing`
+
 #[Done] Create a README with an estimate for each of the individual tasks below
 #[Done] Create a plugin called "Easy Coupons" with the following features:
 #[Done] As an admin, I should be able to bulk generate any quantity of randomly generated, unique 4 character alpha-numeric coupon codes (ex. f5Ba, 891d, etc.)
